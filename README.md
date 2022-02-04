@@ -1,4 +1,4 @@
-# MotionClassifierChallenge
+# Motion Classifier Challenge
 
 This demo was implemented as part of a challenge to classify walk/run activitties from smartphone accelerometer data.
 
@@ -21,3 +21,6 @@ To do so, the x,y,z values are read from the accelerometer at 20Hz and the class
 
 Please note that this is an MVP; I did not put massive effort into making it fail-safe, performant, etc. and did not collect excessive training samples to train the ML-model as stable as possible.
 However, the classification works already quite well with little training data.
+
+## Demo Video
+https://user-images.githubusercontent.com/11543761/152486647-e56c9826-1bf9-4e41-b2c4-520da07087f3.mp4
