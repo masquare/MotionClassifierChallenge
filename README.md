@@ -3,7 +3,9 @@
 This demo was implemented as part of a challenge to classify walk/run activitties from smartphone accelerometer data.
 
 Training data can be collected and predictions made in an iOS app.
-The ML model is prepared in a Jupyter notebook.
+The ML model is prepared in a Jupyter notebook and exportef for CoreML.
+
+&copy; 2019 masquare
 
 ## Repositoy contents
 * MotionClassifierApp (iOS app): Here you can find the main part of the code in the classes ViewController.swift and MLUtil.swift.
